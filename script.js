@@ -1,0 +1,1 @@
+alert("Mahakal ke naam pe ok thok dijiye")
